@@ -1,0 +1,53 @@
+Terminal commands = terminal buyruqlari
+
+
+
+pwd -----> hozir ishlab turgan joyimiz
+
+ls ---> bining papkada nima borligini bildirib beradi  qisqarmasi ro'yxat
+
+cd ----> biror faylga o'tmoqchi bo'lsak yoziladigan cod joyni o'zgartirish
+t
+mkdir ----> yangi papka yaratish        
+
+touch  ----> yangi file yaratish
+
+cd.. --> bitta orqaga qaytish uchun kerak bo'ladi
+
+
+ls
+rm --> o'chirish uchun kerak bo'ladi
+
+
+
+whoami --> accountdan kim foydalanayotganini ko'rsatadi
+
+clear---> oynani tozalash uchun kerak bo'ladi
+
+cp --> kopchirish uchun kerak bo'ladi va qaydan qayerga ko'chirishimizni kiritamiz
+
+
+
+mv --> ctrl x ga oxshagan hammasini ko'chirib oladi
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
